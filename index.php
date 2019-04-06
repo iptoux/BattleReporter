@@ -1,6 +1,6 @@
 <?php
 
-define('BR_VERSION', '0.5.8');
+define('BR_VERSION', '0.5.9');
 
 require_once('vendor/autoload.php');
 
